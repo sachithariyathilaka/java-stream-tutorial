@@ -6,13 +6,13 @@ Java maven project for java stream api.
     * Java Stream API
     * Maven
 
-* ### Configuration
-    * https://sachithariyathilaka.medium.com/java-stream-api-07ba7358c367
+* ### Documentation
+    * [Read on Medium](https://sachithariyathilaka.medium.com/java-stream-api-07ba7358c367)
 
 * ### Release Note
 
-    * Release: 1.0.0
-    * Date: 2024/05/12
+    * Version: 1.0.0
+    * Release Date: 2024/05/12
     * Module: Java Stream Tutorial
     * Changes
         * Java Stream related functionalities implemented.
